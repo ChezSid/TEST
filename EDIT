@@ -3,6 +3,82 @@
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toonami AfterMath East" tvg-logo="https://i.postimg.cc/SNC2C2tR/download-2023-03-17-T214110-590.jpg" group-title="test",Toonami AfterMath East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
+#EXTINF:-1 tvg-id="frissonstv.ca" tvg-name="CA| (FR) FRISSONS TV HD " tvg-logo="https://lo1.in/ca/frson.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) FRISSONS TV HD 
+http://startv365.com:80/9794783213/6955630461/172340#EXTINF:-1 tvg-id="frissonstv.ca" tvg-name="CA| (FR) FRISSONS TV HD " tvg-logo="https://lo1.in/ca/frson.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) FRISSONS TV HD 
+http://startv365.com:80/9794783213/6955630461/172340
+
+#EXTINF:-1 tvg-id="KidsStation.jp" status="online",Kids Station (540p) [Not 24/7]
+https://cdnv148.cloudrsst.com/jptv/jkids_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KidsStation.jp" status="blocked",Kids Station (540p) [Not 24/7]
+https://cdn.us195.jpnettv.live/jptv/jkids_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tooniverse.kr" status="online",Tooniverse (540p)
+http://mytv.dothome.co.kr/ch/catv/225.php
+
+#EXTINF:-1 tvg-id="Tooniverse.kr" status="error",Tooniverse (1080p)
+https://kr-streams.onrender.com/scraper?channel=456
+
+#EXTINF:-1 tvg-id="Toonami.fr",Toonami (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
+#EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us",Adult Swim Aqua Teen Hunger Force (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_de.m3u8
+#EXTINF:-1 tvg-id="AdultSwimBlackJesus.us",Adult Swim Black Jesus (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_de.m3u8
+#EXTINF:-1 tvg-id="AdultSwimChannel5.us",Adult Swim Channel 5 (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream_de.m3u8
+#EXTINF:-1 tvg-id="",Adult Swim Daily Animated (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_de.m3u8
+#EXTINF:-1 tvg-id="",Adult Swim Daily Live Action (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream_de.m3u8
+#EXTINF:-1 tvg-id="AdultSwimDreamCorpLLC.us",Adult Swim Dream Corp LLC (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_de.m3u8
+#EXTINF:-1 tvg-id="",Adult Swim Home Movies (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/test-2/stream_de.m3u8
+#EXTINF:-1 tvg-id="AdultSwimInfomercials.us",Adult Swim Infomercials (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_de.m3u8
+#EXTINF:-1 tvg-id="AdultSwimLastStreamOnTheLeft.us",Adult Swim Last Stream On The Left (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_de.m3u8
+#EXTINF:-1 tvg-id="AdultSwimMetalocalypse.us",Adult Swim Metalocalypse (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_de.m3u8
+#EXTINF:-1 tvg-id="",Adult Swim Mr. Pickles (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream_de.m3u8
+#EXTINF:-1 tvg-id="AdultSwimOffTheAir.us",Adult Swim Off The Air (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
+#EXTINF:-1 tvg-id="",Adult Swim Primal (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
+#EXTINF:-1 tvg-id="AdultSwimRickandMorty.us",Adult Swim Rick and Morty (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
+#EXTINF:-1 tvg-id="AdultSwimRobotChicken.us",Adult Swim Robot Chicken (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
+#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us",Adult Swim Samurai Jack (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
+#EXTINF:-1 tvg-id="",Adult Swim Squidbillies (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_de.m3u8
+#EXTINF:-1 tvg-id="",Adult Swim Superjail! (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/superjail/stream_de.m3u8
+#EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us",Adult Swim The Eric Andre Show (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
+#EXTINF:-1 tvg-id="AdultSwimTheVentureBros.us",Adult Swim The Venture Bros. (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_de.m3u8
+#EXTINF:-1 tvg-id="",Adult Swim Tim and Eric (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream_de.m3u8
+#EXTINF:-1 tvg-id="AdultSwimYourPrettyFaceIsGoingToHell.us",Adult Swim Your Pretty Face Is Going To Hell (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_de.m3u8
+#EXTINF:-1 tvg-id="",test Channel 1 (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/test-1/stream_de.m3u8
+#EXTINF:-1 tvg-id="",test Channel 3 (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/test-3/stream_de.m3u8
+#EXTINF:-1 tvg-id="",test Channel 4 (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/test-4/stream_de.m3u8
+#EXTINF:-1 tvg-id="",test Channel 5 (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/test-5/stream_de.m3u8
+#EXTINF:-1 tvg-id="ToonmaxTV.cn" status="online",Toonmax TV (576p)
+http://210.210.155.37/qwr9ew/s/s50/index.m3u8
+
+EXTINF:-1 tvg-id="frissons.ca" tvg-name="CA064:LCN (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA064" group-title="CA News",CA064:LCN (FR)
+http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/3005
+
 #EXTINF:-1 tvg-id="POPMAX" tvg-name="POPMAX" tvg-logo="https://i.postimg.cc/d17dJgVN/download-2023-06-15-T230730-743.png" group-title="test",POPMAX
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.mpd
 #EXTINF:-1 tvg-id="KIDSSTATION.JP" tvg-name="Kids Station Japan" tvg-logo="https://i.postimg.cc/zf1FvxsY/download-22.png" group-title="test",Kids Station Japan
