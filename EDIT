@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/0cbdd05a88783b1b13158f3e082d428e5a9a416c/Singtel/epg.xml"
 
 
 #EXTINF:-1 tvg-id="POPMAX" tvg-name="POPMAX" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2017/09/POP-Max.png", POPMAX
