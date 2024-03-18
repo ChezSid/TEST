@@ -7,10 +7,15 @@ https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.mpd
 #EXTINF:-1 tvg-id="KIDSSTATION.JP" tvg-name="Kids Station Japan" tvg-logo="https://www.kids-station.com/assets/img/logo_0.png", Kids Station Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 
-#EXTINF:-1 tvg-id="AniPlus.id" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_aniplus_small1.png?v=2.0.0.13", ANIPLUS
+#EXTINF:-1 tvg-id="5340" tvg-name="ANIPLUS HD" tvg-url"https://raw.githubusercontent.com/matthuisman/i.mjh.nz/0cbdd05a88783b1b13158f3e082d428e5a9a416c/Singtel/epg.xml" ttvg-logo="https://images.indihometv.com/logogrey/grey_logo_aniplus_small1.png?v=2.0.0.13", ANIPLUS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uuHkfbVitmiVvrj8zfKtig", "kid":"8sMT/OVTROWlI4l0HR9T+A" } ], "type":"temporary" }
+https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="5340" tvg-name="ANIPLUS HD" tvg-url"https://raw.githubusercontent.com/matthuisman/i.mjh.nz/0cbdd05a88783b1b13158f3e082d428e5a9a416c/Singtel/epg.xml" tvg-logo="https://sifvideostore.s3.amazonaws.com/EPG/ICON/icon_aniplus.png", ANIPLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
 https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="Anime TV" tvg-name="Anime TV" tvg-logo="http://animetv.fr/wp-content/uploads/2023/09/ANIMETV-BLANC0000-300x189.png", ANIME TV
