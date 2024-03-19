@@ -1,28 +1,5 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/0cbdd05a88783b1b13158f3e082d428e5a9a416c/Singtel/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
 
-#EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria
-http://50.7.234.10:8278/Ria-0/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-
-#EXTINF:-1 tvg-id="AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
-http://50.7.234.10:8278/Prima-0/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-
-#EXTINF:-1 tvg-id="AstroWarna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna
-http://50.7.234.10:8278/Warna/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-
-#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra
-http://50.7.234.10:8278/Citra/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-
-#EXTINF:-1 tvg-id="Astro Sensasi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", Astro Sensasi
-http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-
-#EXTINF:-1 tvg-id="AstroQJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",Astro Quan Jia
-http://50.7.234.10:8278/Quanjia/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-
-#EXTINF:-1 tvg-id="AstroQJ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png",bola arena 1
-http://50.7.234.10:8278/Bolaarena1/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-
-#EXTINF:-1 tvg-id="AstroQJ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png",bola arena 2
-http://50.7.234.10:8278/Bolaarena2/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://pictr.com/images/2023/08/27/EA8UKI.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png",E! US
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53404
@@ -30,53 +7,11 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53404
 #EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://pictr.com/images/2024/01/06/EyrWvP.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png", Comedy Central US
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53470
 
-
 #EXTINF:-1 tvg-id="POPMAX" tvg-name="POPMAX" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2017/09/POP-Max.png", POPMAX
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.mpd
 
-#EXTINF:-1 tvg-id="KIDSSTATION.JP" tvg-name="Kids Station Japan" tvg-logo="https://www.kids-station.com/assets/img/logo_0.png", Kids Station Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
-
-#EXTINF:-1 tvg-id="5340" tvg-name="ANIPLUS HD" tvg-url"https://raw.githubusercontent.com/matthuisman/i.mjh.nz/0cbdd05a88783b1b13158f3e082d428e5a9a416c/Singtel/epg.xml" ttvg-logo="https://images.indihometv.com/logogrey/grey_logo_aniplus_small1.png?v=2.0.0.13", ANIPLUS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uuHkfbVitmiVvrj8zfKtig", "kid":"8sMT/OVTROWlI4l0HR9T+A" } ], "type":"temporary" }
-https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="5340" tvg-name="ANIPLUS HD" tvg-url"https://raw.githubusercontent.com/matthuisman/i.mjh.nz/0cbdd05a88783b1b13158f3e082d428e5a9a416c/Singtel/epg.xml" tvg-logo="https://sifvideostore.s3.amazonaws.com/EPG/ICON/icon_aniplus.png", ANIPLUS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="Anime TV" tvg-name="Anime TV" tvg-logo="http://animetv.fr/wp-content/uploads/2023/09/ANIMETV-BLANC0000-300x189.png", ANIME TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Geekdot" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrR3ixHnqQohY5rqnUklbx9tbVI79x1bFUdQ&usqp=CAU", geekdot
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-id="Asiancrush.us" tvg-name="Asiancrush" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png?imwidth=256", asiancrush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb5639007a7464909ccf2164d1f262ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5bad6852db80148b6f4adafb8c2360625f5c98435ee3b24aa5ffe25a468c69a3ac4e41917e58e683179cc94dbb85d0469845867ef01598c6f088d71488bdab57fe03f2267b3b481cc9da08f9a348a5e58a7b308a702b5f6c368cc2c3a43d56ea40474ceac0c8b06bec16c09d57e20a56eb32ab25f0583eaf7868d78034c2899e9d25663cb6c95a6f3ed294cae8de004371e266c093bb56698bf9047d3da927b8706f50389cbada3cfc03b9700aa5cd01d144fa95ded9bdf8eecaa59f458c2085e5f18a314b4059c963ec528f9577d225d179e79b5d711c0573a49451cb91ca1e1e560fd7d01084485b8ed285d58b557bd2364f13a841c94b0969fb316e57ec39b6cf6f3bc7755cc57d16d36c18ac0ebcb425fea29bc20338bed18e02dc67fdba07d7b953fb3d72094ce3bc7c1f764d7bd1fc6f42652a940bb785b8941d6337e5f9c9f1d740785669653522bfa2b620d5deba6a7770e65c296778156de627de7bd00d4c40638929daa20d7b9215634ac2a22c564e6386c2d3d0d0ceabeee5ace051ebe137bbd7f077bf494926/17/640x360_1057680/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png", Pluto TV Anime 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png", Pluto TV Animé Acción 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvwjgnyugMU6eOiqeO1FTwyo-2LH2Bswq5g&usqp=CAU", Xtrema Anime
-https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvwjgnyugMU6eOiqeO1FTwyo-2LH2Bswq5g&usqp=CAU", Xtrema Anime
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8?rand=0.8066408700965546
-
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/436-4362370_yamato-logo-png-transparent-logo-yamato-png-png.png", Yamato Animation
-https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg", Toonami Aftermath
-http://api.toonamiaftermath.com:3000/pst/playlist.m3u8 
-
-#EXTINF:-1 tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg", Toonami Aftermath EAST
-http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5ef4e1b40d9ad000423c442a" tvg-name="RetroCrush" tvg-logo="https://www.retrocrush.tv/images/retrocrush/retrocrush_logo2.png?imwidth=256" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml", RetroCrush
 https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/cb5639007a7464909ccf2164d1f262ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5bad6852db80148b6f4adafb8c2360625f5c98435ee3b24aa1aae15f40896bf3ac4e41917e58e683179cc915bfd381469941d474f5149dc6f48b864688a5ab5ffe03f226365b2d738a857787bb3edcbbca3352f6152f420e4794c0f99f1e66f72d2949ebc0dbad6ce912cd9057e20a56eb32ab25f0583eaf7868d78034c2899e9d25663cb6c95a6f3ed294cae8de004371e266c093bb56698bf9047d3da927b8706f50389cbada3cfc03b9700aa5cd01d144fa95ded9bdf8eecaa59f458c2085e5f18a314b4059c963ec528f9577d225d179e79b5d711c0573a49451cb91ca1e1e560fd7d01084485b8ed285d58b557bd2364f13a841c94b0969fb316e57ec39b6cf6f3bc7755cc57d16d36c18ac0ebcb425fea29bc20338bed18e02dc67fdba07d7b953fb3d72094ce3bc7c1f764d7bd1fc6f42652a940bb785b8941d6337e5f9c9f1d740785669653522bfa2b620d5deba6a7770e65c296778156de627de7bd00d4c40638929daa20d7b9215634ac2a22c564e6386c2d3d4d3ceab3f624a5a950619836cade73b93ccd343/54/640x360_1057680/index.m3u8
