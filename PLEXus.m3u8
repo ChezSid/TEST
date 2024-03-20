@@ -44,9 +44,6 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60bfd0907c60b7002c9765de.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" , AMC Thrillers
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf" tvg-id="5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6506fc65-9955-42e9-bd64-e9432925db17/amc_yellow_logo.png" , AMC en Español
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf.m3u8
-
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" tvg-id="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png" , ANIME x HIDIVE
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf.m3u8
 
@@ -86,17 +83,11 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd" tvg-id="5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png" , Always Funny
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421" tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b33e22c-5662-40a8-98e1-6678cc13d7fc/AFE_Logo_for_Light_BG__transparent__-_Sara_Levine.png" , Always Funny en Español
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421.m3u8
-
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6182cd0df4e62961d9c2ccf6" tvg-id="5e20b730f2f8d5003d739db7-6182cd0df4e62961d9c2ccf6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e0e69897-17d9-42a8-9f15-b4ecf296d539/America_the_Beautiful_Logo_attribution.png" , America the Beautiful
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6182cd0df4e62961d9c2ccf6.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6303ca568a01b5d4dae57d0e" tvg-id="5e20b730f2f8d5003d739db7-6303ca568a01b5d4dae57d0e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fb5704c7-3992-49f6-b534-11158f20604e/AngerManagement_logodark_1500x1000_-_Chris_Connors.png" , Anger Management
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6303ca568a01b5d4dae57d0e.m3u8
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64149ba2d02609d8a7127ee8" tvg-id="5e20b730f2f8d5003d739db7-64149ba2d02609d8a7127ee8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a663e04f-8322-45f6-a64d-bafe754d4e09/AngrMngmnt_logo_dark_1500x1000_-_Chris_Connors.png" , Anger Management en español
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64149ba2d02609d8a7127ee8.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6348adc71159f6a5ce819b85" tvg-id="5e20b730f2f8d5003d739db7-6348adc71159f6a5ce819b85" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7b4ef37c-987a-4998-89a2-bc5534703b2c/Antiques_Road_Trip_logo_dark_-_Antonio_de_la_Torrerdx_big.png" , Antiques Road Trip
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6348adc71159f6a5ce819b85.m3u8
@@ -254,9 +245,6 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-640205c40e1daf16b299567e.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64f115ad2173e54397ce0d40" tvg-id="5e20b730f2f8d5003d739db7-64f115ad2173e54397ce0d40" tvg-logo="https://provider-static.plex.tv/epg/cms/production/705cd2aa-27f6-4fd0-ab27-acbbddc1e3bb/FilmRise_Cheaters_Logo_Colorrdx.png" , Cheaters
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f115ad2173e54397ce0d40.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-65623e0eb7d737841f30a4ff" tvg-id="5e20b730f2f8d5003d739db7-65623e0eb7d737841f30a4ff" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0328822-b149-4524-ad89-1c87c2543268/FilmRise_CheatersEnEspanol_Logo_ColorRDX.png" , Cheaters en Español
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65623e0eb7d737841f30a4ff.m3u8
-
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f6b8e5900b0950040d0f2af" tvg-id="5e20b730f2f8d5003d739db7-5f6b8e5900b0950040d0f2af" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/4947c924b33dec83b2b00bb560bf2eb6.png" , Cheddar
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f6b8e5900b0950040d0f2af.m3u8
 
@@ -277,9 +265,6 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64e6e2f04a5e9b4cedc6d52b" tvg-id="5e20b730f2f8d5003d739db7-64e6e2f04a5e9b4cedc6d52b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a41fd21e-3ffc-481a-b12a-ba5df241299f/Cine_de_horror_logo_1500x1000px_white.png" , Cine de Horror
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64e6e2f04a5e9b4cedc6d52b.m3u8
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64e6e46f27a915f9b5184e9a" tvg-id="5e20b730f2f8d5003d739db7-64e6e46f27a915f9b5184e9a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18be52bf-43c6-4ac0-b3bf-ed51b252cb89/Cine_en_espanol_logo_1500x1000px_WHT.png" , Cine en Español
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64e6e46f27a915f9b5184e9a.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-616df1e90dfa27ee465797fa" tvg-id="5e20b730f2f8d5003d739db7-616df1e90dfa27ee465797fa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e4ba10a4-dbb2-4d15-b268-1ed43ddf7e4b/cinelife-logo.png" , CineLife
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-616df1e90dfa27ee465797fa.m3u8
@@ -319,9 +304,6 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64b71aa88ec13d5dcb7e6bb6.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" , Cooking Panda
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda.m3u8
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6477b95b7ba9c0d593859bfc" tvg-id="5e20b730f2f8d5003d739db7-6477b95b7ba9c0d593859bfc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png" , Cops en Español
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6477b95b7ba9c0d593859bfc.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c" tvg-id="5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08be4d01-35de-46c7-b600-546316cbaf4a/corazon_logo_light_-_James_Stowe.png" , Corazón
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64694d52f73356567a64ce8c.m3u8
@@ -436,9 +418,6 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6335ad3170dc93c71ab5ce09.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f170d61b898490041b49360" tvg-id="5e20b730f2f8d5003d739db7-5f170d61b898490041b49360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/38e65de2-513a-41aa-ab83-de3d158a49e1/Electric_Now_Logo_For_Dark_Background_EN.png" , Electric Now
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f170d61b898490041b49360.m3u8
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" tvg-id="5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0fc49706-9926-464e-bd70-bcff3f4a210d/ENow_ES_Logo_-_Dark_Backgrounds_1500x1000RDX.png" , ElectricNOW en Español
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-63c1db220aa23f984207af80" tvg-id="5e20b730f2f8d5003d739db7-63c1db220aa23f984207af80" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f69f8786-3b60-47b6-aead-be63865746ea/750x500_-_white_logo_James_Roebuck.png" , Emergency!
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63c1db220aa23f984207af80.m3u8
@@ -691,9 +670,6 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" tvg-id="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0aabcd62-3f2e-4503-89cf-9d42b8473917/HMMore_Light_Logo.png" , Hallmark Movies & More
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514.m3u8
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-65d7b3d2278ed4498289c34b" tvg-id="5e20b730f2f8d5003d739db7-65d7b3d2278ed4498289c34b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/64e671ce-56a6-4a43-8dc8-f3c1c550e0be/HMMore_PLEX_HallmarkEnEspanol_Light_Logo_RDX.png" , Hallmark en Español
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65d7b3d2278ed4498289c34b.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-623171af5995505c86629208" tvg-id="5e20b730f2f8d5003d739db7-623171af5995505c86629208" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d0f10def-3122-4b3b-a7ad-a50050a0babe/HAPPITV_LOGO_LIGHT.png" , HappiTV
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-623171af5995505c86629208.m3u8
@@ -1331,9 +1307,6 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f82.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f88" tvg-id="5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f88" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_bobross_1.png" , The Bob Ross Channel
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f88.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-636442f69aabc8029c6d6b8d" tvg-id="5e20b730f2f8d5003d739db7-636442f69aabc8029c6d6b8d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/880a210b-f794-4dcd-aefc-e30393666c42/TheBobRossChannel_enEspa_ol_outlinedWHITE_-_Suzanne_Yeerdx.png" , The Bob Ross Channel en Español
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-636442f69aabc8029c6d6b8d.m3u8
-
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141125" tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141125" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/carolburnett_logo_dark.png" , The Carol Burnett Show
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141125.m3u8
 
@@ -1588,9 +1561,6 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4" tvg-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/beINSPORTS-XTRA_logo_dark_v3.png" , beIN SPORTS XTRA
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4.m3u8
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64a8903d273b89c4e7396553" tvg-id="5e20b730f2f8d5003d739db7-64a8903d273b89c4e7396553" tvg-logo="https://provider-static.plex.tv/epg/cms/production/81a805bf-78a8-4547-8874-a3d2d9f0cb91/beIN_Logo_for_Light_Backgrounds.png" , beIN Sports Xtra en Español
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64a8903d273b89c4e7396553.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61e9af453508a50f84213dd6" tvg-id="5e20b730f2f8d5003d739db7-61e9af453508a50f84213dd6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1c24a0e4-ecc3-4e51-8eb6-f5c8e2ed1ff9/Untitled.png" , i24NEWS Updates
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61e9af453508a50f84213dd6.m3u8
