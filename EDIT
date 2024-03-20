@@ -263,22 +263,22 @@ https://i.mjh.nz/SamsungTVPlus/KRBB4200018FT.m3u8
 #EXTINF:-1 channel-id="samsung-KRBC3500018J9" tvg-id="KRBC3500018J9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20230809T021334SQUARE.png_20230809021335.png" tvg-chno="652" group-title="CURRENT/CULTURE/시사/교양" , MBN HUMAN DOCUMENTARY SANO/MBN 휴먼다큐 사노라면
 https://i.mjh.nz/SamsungTVPlus/KRBC3500018J9.m3u8
 
-#EXTINF:-1 channel-id="samsung-KRAH1801500A" tvg-id="KRAH1801500A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20240131T032147SQUARE.png_20240131032148.png" tvg-chno="653" group-title="쇼핑" , HYUNDAI HOME SHOPPING/현대홈쇼핑
+#EXTINF:-1 channel-id="samsung-KRAH1801500A" tvg-id="KRAH1801500A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20240131T032147SQUARE.png_20240131032148.png" tvg-chno="653" group-title="SHOPPING/쇼핑" , HYUNDAI HOME SHOPPING/현대홈쇼핑
 https://i.mjh.nz/SamsungTVPlus/KRAH1801500A.m3u8
 
 #EXTINF:-1 channel-id="samsung-KRBD2200001QD" tvg-id="KRBD2200001QD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2200001QD_20230809T021516SQUARE.png_20230809021517.png" tvg-chno="654" group-title="LIFESTYLE/라이프스타일" , OUR CONSCIOUSNESS/우리의식탁
 https://i.mjh.nz/SamsungTVPlus/KRBD2200001QD.m3u8
 
-#EXTINF:-1 channel-id="samsung-KRBD4400001QO" tvg-id="KRBD4400001QO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4400001QO_20231206T031628SQUARE.png_20231206031629.png" tvg-chno="655" group-title="쇼핑" , INFOBEL HOME SHOPPING/인포벨 홈쇼핑
+#EXTINF:-1 channel-id="samsung-KRBD4400001QO" tvg-id="KRBD4400001QO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4400001QO_20231206T031628SQUARE.png_20231206031629.png" tvg-chno="655" group-title="SHOPPING/쇼핑" , INFOBEL HOME SHOPPING/인포벨 홈쇼핑
 https://i.mjh.nz/SamsungTVPlus/KRBD4400001QO.m3u8
 
-#EXTINF:-1 channel-id="samsung-KRAH4602000A" tvg-id="KRAH4602000A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20240131T032149SQUARE.png_20240131032150.png" tvg-chno="700" group-title="쇼핑" , HYUNDAI HOME SHOPPING+SHOP/현대홈쇼핑+Shop
+#EXTINF:-1 channel-id="samsung-KRAH4602000A" tvg-id="KRAH4602000A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20240131T032149SQUARE.png_20240131032150.png" tvg-chno="700" group-title="SHOPPING/쇼핑" , HYUNDAI HOME SHOPPING+SHOP/현대홈쇼핑+Shop group-title="SHOPPING/쇼핑"
 https://i.mjh.nz/SamsungTVPlus/KRAH4602000A.m3u8
 
 #EXTINF:-1 channel-id="samsung-KRBC3200004D1" tvg-id="KRBC3200004D1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20240319T050757SQUARE.png" tvg-chno="701" group-title="MOVIES/영화" , NEW MOVIES
 https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8
 
-#EXTINF:-1 channel-id="samsung-KRBC3200005SH" tvg-id="KRBC3200005SH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20230809T021235SQUARE.png_20230809021236.png" tvg-chno="731" group-title="기술/게임/과학" , OGN STAR LEAGUE/OGN 스타리그
+#EXTINF:-1 channel-id="samsung-KRBC3200005SH" tvg-id="KRBC3200005SH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20230809T021235SQUARE.png_20230809021236.png" tvg-chno="731" group-title="TECHNOLOGY/GAME/SCIENCE/기술/게임/과학" , OGN STAR LEAGUE/OGN 스타리그
 https://i.mjh.nz/SamsungTVPlus/KRBC3200005SH.m3u8
 
 #EXTINF:-1 channel-id="samsung-KRBC3200011N3" tvg-id="KRBC3200011N3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200011N3_20231114T070137SQUARE.png_20231114070138.png" tvg-chno="752" group-title="SPORTS/스포츠" , WORLD BILLIARDS TV
