@@ -1121,4 +1121,16 @@ https://www112.vipanicdn.net/streamhls/95286955fe8d126e02e6992fcda290a7/ep.12.17
 #EXTINF:-1 type="series" group-title="Lycoris Recoil" tvg-logo="https://gogocdn.net/cover/c-danchi.png", LYCORIS RECOIL S01EP13
 https://www111.vipanicdn.net/streamhls/95286955fe8d126e02e6992fcda290a7/ep.13.1709206005.720.m3u8
 
-
+[
+  {
+    "name": "YOUKOSO JITSURYOKU SHIJOU SHUGI NO KYOUSHITSU E 3RD SEASON",
+    "name:lv": "The strongest principle of growth lies in the human choice.",
+    "category": "Anime",
+    "info": "Ayanokoji's class embarks on their first trial as the ascended Class C, the mixed training camp."
+      "poster": "http://poster/image.jpg",
+      "rating": "7.6",
+      "genre": "Anime"
+      ]
+    },
+    "video": "https://www116.vipanicdn.net/streamhls/300ee847ec1def4e9ba495e302f4611f/ep.1.1709156944.480.m3u8"
+  },
